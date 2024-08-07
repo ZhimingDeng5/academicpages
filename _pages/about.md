@@ -34,31 +34,22 @@ New Oriental Educational and Teaching Group, Shanghai, China
   
 Awards & Grants
 ======
-
-[//]: # (| Year | Awards                                                                                                                                                                        |     Amount |)
-
-[//]: # (|:-----|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------:|)
-
-[//]: # (| 2024 | University of Melbourne Research Essential Grant                                                                                                                              |  AUD 5,990 |)
-
-[//]: # (|      | TOEFL/ITLA Student Travel Grant                                                                                                                                               |  USD 2,500 |)
-
-[//]: # (| 2023 | University of Melbourne Graduate Research in Arts Travel Scheme                                                                                                               |  AUD 1,500 |)
-
-[//]: # (|      | Research and Graduate Studies Grant &#40;Languages and Linguistics&#41;                                                                                                               |  AUD 2,000 |)
-
-[//]: # (|      | [**British Council Assessment Research Awards**]&#40;https://www.britishcouncil.org/exam/aptis/research/grants-and-awards/awards&#41;<sup>1</sup>                                     |  GBP 2,500 |)
-
-[//]: # (|      | Graduate Researcher Prize Scholarship; Outstanding Student Award; First Prize, Shanghai Jiao Tong University Scholarship                                                      |  CNY 5,000 |)
-
-[//]: # (| 2022 | [**Duolingo Dissertation Research Awards in Language Assessment**]&#40;https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/&#41;<sup>2</sup>                             |  USD 6,000 |)
-
-[//]: # (| 2020 | [**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program &#40;Fellowship&#41; &#40;WH610160507/047&#41;**]&#40;https://go.unimelb.edu.au/7bo8&#41;<sup>3</sup> | AUD 20,000 |)
-
+  
 Year:2024  
 
-University of Melbourne Research Essential Grant<span class="right-align">AUD 5,990</span>
+University of Melbourne Research Essential Grant (AUD 5,990)  
+TOEFL/ITLA Student Travel Grant (USD 2,500)  
 
+Year:2023  
+University of Melbourne Graduate Research in Arts Travel Scheme (AUD 1,500)  
+Research and Graduate Studies Grant (Languages and Linguistics) (AUD 2,000)  
+[**British Council Assessment Research Awards**](https://www.britishcouncil.org/exam/aptis/research/grants-and-awards/awards&#41) (GBP 2,500)  
+Graduate Researcher Prize Scholarship; Outstanding Student Award; First Prize, Shanghai Jiao Tong University Scholarship (CNY 5,000)  
+
+Year:2022  
+[**Duolingo Dissertation Research Awards in Language Assessment**](https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/&#41) (USD 6,000)  
+[**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program &#40;Fellowship&#41; &#40;WH610160507/047&#41;**](https://go.unimelb.edu.au/7bo8&#41) (AUD 20,000)  
+  
 Research
 ======
 
@@ -66,22 +57,22 @@ Publications
   
 A. Peer-reviewed Journal Articles  
   
-**Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking. *Journal of English for Academic Purposes, 1-14.*](https://doi.org/10.1016/j.jeap.2024.101426)  
+**Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking.](https://doi.org/10.1016/j.jeap.2024.101426)   *Journal of English for Academic Purposes*, 1-14.
 [SSCI, Q1 in Linguistics and Education, JIF: 3.1]  
 
-**Yin, S.**, Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking. *RELC Journal, 1-14.*](https://doi.org/10.1177/00336882231222651)  
+**Yin, S.**, Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking.](https://doi.org/10.1177/00336882231222651) *RELC Journal*, 1-14.]  
 [SSCI, Q1 in Linguistics, JIF: 3.6]  
   
-Sun, Q., Chen, F., & **Yin, S.** (2023). [The role and features of peer assessment feedback in college English writing. *Frontiers in Psychology, 13:1070618, 1-16.*](https://doi.org/10.3389/fpsyg.2022.1070618)   
+Sun, Q., Chen, F., & **Yin, S.** (2023). [The role and features of peer assessment feedback in college English writing.](https://doi.org/10.3389/fpsyg.2022.1070618)  *Frontiers in Psychology, 13:1070618*, 1-16.]  
 [SSCI, Q1 in Psychology, JIF: 3.8]  
 
-**Yin, S.** & Jin, Y. (2022).[The effect of critical thinking on the performances of integrated speaking assessments. *Foreign Languages and Their Teaching, 327(6): 66-77.*](https://doi.org/10.13458/j.cnki.flatt.004905)  
+**Yin, S.** & Jin, Y. (2022).[The effect of critical thinking on the performances of integrated speaking assessments.](https://doi.org/10.13458/j.cnki.flatt.004905) *Foreign Languages and Their Teaching*, 327(6): 66-77.  
 [CSSCI-indexed, Top journal in China]  
 
-**Yin, S.**, Chen, F., & Chang, H. (2022). [Assessment as learning: How does peer assessment function in students’ learning? *Frontiers in Psychology, 13: 912568, 1-14.*](https://doi.org/10.3389/fpsyg.2022.912568)  
+**Yin, S.**, Chen, F., & Chang, H. (2022). [Assessment as learning: How does peer assessment function in students’ learning?](https://doi.org/10.3389/fpsyg.2022.912568) *Frontiers in Psychology, 13*: 912568, 1-14.  
 [SSCI, Q1 in Psychology, JIF: 3.8]  
   
-Sun, H. & **Yin, S.** (2022). [Review of Language Aptitude: Advancing Theory, Testing, Research and Practice. *Assessing Writing, 51 (1)：1-4.*](https://doi.org/10.1016/j.asw.2021.100588)  
+Sun, H. & **Yin, S.** (2022). [Review of Language Aptitude: Advancing Theory, Testing, Research and Practice.](https://doi.org/10.1016/j.asw.2021.100588) *Assessing Writing, 51* (1)：1-4.  
 [SSCI, Q1 in Linguistics, JIF: 4.2]  
   
 B. Conference papers  
@@ -134,20 +125,20 @@ Service
 ======
 
 Interim reviewer and final report evaluator for National Education Examinations Authority – British Council English Assessment Research Grants, 2020-2024.  
-<span class="hanging-indent">• Reviewer of the 11th and 12th British Council New Directions in Language Assessment East Asia, July 2023, 2024.  </span>
-<span class="hanging-indent">• Ad-hoc Reviewer for Journals: “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  </span>
-<span class="hanging-indent">• Academic contributor to the project “Linking China’s Standards of English  </span>
+<span class="hanging-indent-title">• Reviewer of the 11th and 12th British Council New Directions in Language Assessment East Asia, July 2023, 2024.  </span>
+<span class="hhanging-indent-title">• Ad-hoc Reviewer for Journals: “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  </span>
+<span class="hanging-indent-title">• Academic contributor to the project “Linking China’s Standards of English  </span>
   
 Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021.   
-<span class="hanging-indent">• Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  </span>
-<span class="hanging-indent">• ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  </span>
-<span class="hanging-indent">• AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer  </span>
+<span class="hanging-indent-title">• Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  </span>
+<span class="hanging-indent-title">• ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  </span>
+<span class="hanging-indent-title">• AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Manage operational activities (e.g., engaging student members, encouraging membership, offering on-site support for events)  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Active participation in discussions and provide feedback on proposed initiatives  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Edit the In Conversation Series  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Draft the cover page report for the seventh conference of AALA  </span>
 
-<span class="hanging-indent">• Member in ALTAANZ (Association for Language Testing and Assessment of Australia and New Zealand) Reference Group 2022-2024  
+<span class="hanging-indent-title">• Member in ALTAANZ (Association for Language Testing and Assessment of Australia and New Zealand) Reference Group 2022-2024  
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Help editorial team to enhance the journal, Studies in Language Assessment  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Support the ALTAANZ Executive Committee  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Work with the Student Representatives to build a strong ALTAANZ student community  </span>
@@ -161,7 +152,9 @@ Language Ability to College English Test Band 4 and 6”, January 17- February 7
 </style>
 
 <style type="text/css">
-.right-align {
-    text-align: right;
+.hanging-indent-title {
+    padding-left: 1.5em;
+    text-indent: -1.5em;
+    display: block;
 }
 </style>

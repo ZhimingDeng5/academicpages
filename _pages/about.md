@@ -35,8 +35,7 @@ New Oriental Educational and Teaching Group, Shanghai, China
 2 Announcement: https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/
 3 Announcement: https://go.unimelb.edu.au/7bo8
 
-非常感谢你提供了当前的 Markdown 代码。我理解你希望改进表格的显示效果。我会对你的代码进行一些调整，以获得更好的表格显示效果。以下是修改后的 Markdown 代码：
-markdownCopyAwards & Grants
+Awards & Grants
 ======
 
 | Year | Awards                                                                                                                                                                        |     Amount |

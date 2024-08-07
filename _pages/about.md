@@ -14,7 +14,7 @@ About
 
 I am a joint PhD candidate at the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, rating scale
 development and validation, classroom-based assessment, and critical thinking ability. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, and TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024.
-Here is my CV (超链接到pdf). You can reach me at shengkai.yin1@unimelb.edu.au or DM me on [LinkedIn] (https://www.linkedin.com/in/shengkai-yin/).
+Here is my [CV](https://shengkaiyin.com/files/Shengkai-CV.pdf). You can reach me at shengkai.yin1@unimelb.edu.au or DM me on [LinkedIn] (https://www.linkedin.com/in/shengkai-yin/).
 
 Employment
 ======
@@ -42,12 +42,26 @@ For site content, there is one markdown file for each type of content, which are
 I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
 ) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
+Service
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Interim reviewer and final report evaluator for National Education Examinations Authority – British Council English Assessment Research Grants, 2020-2024.  
+• Reviewer of the 11th and 12th British Council New Directions in Language Assessment East Asia, July 2023, 2024.  
+• Ad-hoc Reviewer for Journals: “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  
+• Academic contributor to the project “Linking China’s Standards of English  
+  
+Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021. • Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  
+• ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  
+• AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer  
+   Manage operational activities (e.g., engaging student members, encouraging membership, offering on-site support for events)  
+   Active participation in discussions and provide feedback on proposed initiatives  
+   Edit the In Conversation Series  
+   Draft the cover page report for the seventh conference of AALA  
+  
+• Member in ALTAANZ (Association for Language Testing and Assessment of Australia and New Zealand) Reference Group 2022-2024  
+   Help editorial team to enhance the journal, Studies in Language Assessment  
+   Support the ALTAANZ Executive Committee  
+   Work with the Student Representatives to build a strong ALTAANZ student community  
 
 For more info
 ------

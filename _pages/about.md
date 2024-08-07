@@ -141,8 +141,8 @@ Language Ability to College English Test Band 4 and 6”, January 17- February 7
 
 <style type="text/css">
 .hanging-indent {
-    padding-left: 2em;
-    text-indent: -2em;
+    padding-left: 1em;
+    text-indent: -1em;
     display: block;
 }
 </style>

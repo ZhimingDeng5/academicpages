@@ -57,7 +57,7 @@ Awards & Grants
 
 Year:2024  
 
-University of Melbourne Research Essential Grant <span class="right-align">AUD 5,990</span>  
+University of Melbourne Research Essential Grant<span class="right-align">AUD 5,990</span>
 
 Research
 ======
@@ -154,8 +154,8 @@ Language Ability to College English Test Band 4 and 6”, January 17- February 7
 
 <style type="text/css">
 .hanging-indent {
-    padding-left: 1em;
-    text-indent: -1em;
+    padding-left: 1.5em;
+    text-indent: -1.5em;
     display: block;
 }
 </style>

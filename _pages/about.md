@@ -132,15 +132,15 @@ Language Ability to College English Test Band 4 and 6”, January 17- February 7
 <span class="hanging-indent-title">• Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  </span>
 <span class="hanging-indent-title">• ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  </span>
 <span class="hanging-indent-title">• AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;▪ Manage operational activities (e.g., engaging student members, encouraging membership, offering on-site support for events)  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;▪ Active participation in discussions and provide feedback on proposed initiatives  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;▪ Edit the In Conversation Series  </span>
-<span class="hanging-indent">&nbsp;&nbsp;&nbsp;▪ Draft the cover page report for the seventh conference of AALA  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Manage operational activities (e.g., engaging student members, encouraging membership, offering on-site support for events)  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Active participation in discussions and provide feedback on proposed initiatives  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Edit the In Conversation Series  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Draft the cover page report for the seventh conference of AALA  </span>
 
-<span class="hanging-indent-title">• Member in ALTAANZ (Association for Language Testing and Assessment of Australia and New Zealand) Reference Group 2022-2024  
-<span class="hanging-indent">▪ Help editorial team to enhance the journal, Studies in Language Assessment  </span>
-<span class="hanging-indent">▪ Support the ALTAANZ Executive Committee  </span>
-<span class="hanging-indent">▪ Work with the Student Representatives to build a strong ALTAANZ student community  </span>
+<span class="hanging-indent-title">• Member in ALTAANZ (Association for Language Testing and Assessment of Australia and New Zealand) Reference Group 2022-2024  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Help editorial team to enhance the journal, Studies in Language Assessment  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Support the ALTAANZ Executive Committee  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Work with the Student Representatives to build a strong ALTAANZ student community  </span>
 
 <style type="text/css">
 .hanging-indent {

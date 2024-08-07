@@ -31,10 +31,7 @@ Shanghai Polytechnic University, School of Foreign Languages and Cultural Commun
   
 **TOEFL Instructor** (part-time)	2017 – 2019  
 New Oriental Educational and Teaching Group, Shanghai, China  
-1 Announcement: https://www.britishcouncil.org/exam/aptis/research/grants-and-awards/awards
-2 Announcement: https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/
-3 Announcement: https://go.unimelb.edu.au/7bo8
-
+  
 Awards & Grants
 ======
 
@@ -55,43 +52,67 @@ Research
 Publications  
   
 A. Peer-reviewed Journal Articles  
-(1) Yin, S., Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking. Journal of English for Academic Purposes, 1-14.](https://doi.org/10.1016/j.jeap.2024.101426)  [SSCI, Q1 in Linguistics and Education, JIF: 3.1]  
-(2) Yin, S., Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking. RELC Journal, 1-14.](https://doi.org/10.1177/00336882231222651) [SSCI, Q1 in Linguistics, JIF: 3.6]  
-(3) Sun, Q., Chen, F., & Yin, S. (2023). [The role and features of peer assessment feedback in college English writing. Frontiers in Psychology, 13:1070618, 1-16.](https://doi.org/10.3389/fpsyg.2022.1070618) [SSCI, Q1 in Psychology, JIF: 3.8]  
-(4) Yin, S. & Jin, Y. (2022).[The effect of critical thinking on the performances of integrated speaking assessments. Foreign Languages and Their Teaching, 327(6): 66-77.](https://doi.org/10.13458/j.cnki.flatt.004905) [CSSCI-indexed, Top journal in China]  
-(5) Yin, S., Chen, F., & Chang, H. (2022). [Assessment as learning: How does peer assessment function in students’ learning? Frontiers in Psychology, 13: 912568, 1-14.](https://doi.org/10.3389/fpsyg.2022.912568) [SSCI, Q1 in Psychology, JIF: 3.8]  
-(6) Sun, H. & Yin, S. (2022). [Review of Language Aptitude: Advancing Theory, Testing, Research and Practice. Assessing Writing, 51 (1)：1-4.](https://doi.org/10.1016/j.asw.2021.100588) [SSCI, Q1 in Linguistics, JIF: 4.2]  
+  
+**Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking. *Journal of English for Academic Purposes, 1-14.*](https://doi.org/10.1016/j.jeap.2024.101426)  
+[SSCI, Q1 in Linguistics and Education, JIF: 3.1]  
+
+**Yin, S.**, Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking. *RELC Journal, 1-14.*](https://doi.org/10.1177/00336882231222651)  
+[SSCI, Q1 in Linguistics, JIF: 3.6]  
+  
+Sun, Q., Chen, F., & **Yin, S.** (2023). [The role and features of peer assessment feedback in college English writing. *Frontiers in Psychology, 13:1070618, 1-16.*](https://doi.org/10.3389/fpsyg.2022.1070618)   
+[SSCI, Q1 in Psychology, JIF: 3.8]  
+
+**Yin, S.** & Jin, Y. (2022).[The effect of critical thinking on the performances of integrated speaking assessments. *Foreign Languages and Their Teaching, 327(6): 66-77.*](https://doi.org/10.13458/j.cnki.flatt.004905)  
+[CSSCI-indexed, Top journal in China]  
+
+**Yin, S.**, Chen, F., & Chang, H. (2022). [Assessment as learning: How does peer assessment function in students’ learning? *Frontiers in Psychology, 13: 912568, 1-14.*](https://doi.org/10.3389/fpsyg.2022.912568)  
+[SSCI, Q1 in Psychology, JIF: 3.8]  
+  
+Sun, H. & **Yin, S.** (2022). [Review of Language Aptitude: Advancing Theory, Testing, Research and Practice. *Assessing Writing, 51 (1)：1-4.*](https://doi.org/10.1016/j.asw.2021.100588)  
+[SSCI, Q1 in Linguistics, JIF: 4.2]  
   
 B. Conference papers  
-(1) **Yin, S.** (2024). Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale. In Proceedings of the 45th Language Testing Research Colloquium (LTRC) 2024, Innsbruck, Austria. Research paper presentation.  
-(2) **Yin, S.**., Jin, Y., & Fan, J. (2024) Understanding critical thinking in EAP speaking: Evidence from the CET-SET6. Academic Forum on English Language Testing in Asia (AFELTA) 2024, Singapore. Research paper presentation.  
-(3) **Yin, S.** (2023). Assessing critical thinking in EAP speaking: Design and validation of a rating scale. In Proceedings of the 44th Language Testing Research Colloquium (LTRC) 2023, New York City, United States. presentation.  
-(4) **Yin, S.** (2022). Assessing critical thinking in EAP speaking: Development and validation of a rating scale. In Proceedings of the 8th Annual International Conference of the Asian Association for Language Assessment (AALA) 2022, Chennai, India. poster, slides.  
-(5) Sun, Q., Chen, F. & **Yin, S.** (2022). Understanding diversified evaluation in ESL writing classroom: An insight from effectiveness of peer assessment feedback. New Direction 2022, British Council, England. Slides.  
-(6) **Yin, S.** (2021). Investigating the Relationships Between Test Takers’ Critical Thinking Ability and Their Performances on Speaking Task：A Case Study of TOEFL Integrated Speaking Task. In Proceedings of the 19th World Congress of Applied Linguistics (AILA) 2021, Groningen, the Netherlands. poster, slides.  
-(7) **Yin, S.** (2021). Validating dynamic assessment: an argument-based approach. In Proceedings of The Sixth Conference on Language Testing and Assessment 2021, pp.42. Shanghai, China. paper, slides.  
-(8) **Yin, S.** & Chen, F. (2021). Assessing by peers: How it benefits students’ learning. In Proceedings of the 7th Annual International Conference of the Asian Association for Language Assessment (AALA) 2021, Seoul, Korea. paper, slides.  
-(9) **Yin, S.** (2020). On Integrated Speaking Test Performance and its Relation with Critical Thinking: A Case Study of TOEFL Integrated Speaking Task. In Proceedings of the Fifth International Conference on Language Testing and Assessment. Guangzhou, China. paper, slides.  
+  
+**Yin, S.** (2024). Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale. In Proceedings of *the 45th Language Testing Research Colloquium (LTRC) 2024*, Innsbruck, Austria. Research paper presentation.  
+  
+**Yin, S.**., Jin, Y., & Fan, J. (2024) Understanding critical thinking in EAP speaking: Evidence from the CET-SET6. *Academic Forum on English Language Testing in Asia (AFELTA) 2024*, Singapore. Research paper presentation.  
+  
+**Yin, S.** (2023). Assessing critical thinking in EAP speaking: Design and validation of a rating scale. In Proceedings of *the 44th Language Testing Research Colloquium (LTRC) 2023*, New York City, United States. presentation.  
+  
+**Yin, S.** (2022). Assessing critical thinking in EAP speaking: Development and validation of a rating scale. In Proceedings of *the 8th Annual International Conference of the Asian Association for Language Assessment (AALA) 2022*, Chennai, India. poster, slides.  
+  
+Sun, Q., Chen, F. & **Yin, S.** (2022). Understanding diversified evaluation in ESL writing classroom: An insight from effectiveness of peer assessment feedback. *New Direction 2022*, British Council, England. Slides.  
+  
+**Yin, S.** (2021). Investigating the Relationships Between Test Takers’ Critical Thinking Ability and Their Performances on Speaking Task：A Case Study of TOEFL Integrated Speaking Task. In Proceedings of *the 19th World Congress of Applied Linguistics (AILA) 2021*, Groningen, the Netherlands. poster, slides.  
+  
+**Yin, S.** (2021). Validating dynamic assessment: an argument-based approach. In Proceedings of *The Sixth Conference on Language Testing and Assessment 2021*, pp.42. Shanghai, China. paper, slides.  
+  
+**Yin, S.** & Chen, F. (2021). Assessing by peers: How it benefits students’ learning. In Proceedings of *the 7th Annual International Conference of the Asian Association for Language Assessment (AALA) 2021*, Seoul, Korea. paper, slides.  
+  
+**Yin, S.** (2020). On Integrated Speaking Test Performance and its Relation with Critical Thinking: A Case Study of TOEFL Integrated Speaking Task. In Proceedings of *the Fifth International Conference on Language Testing and Assessment*. Guangzhou, China. paper, slides.  
   
 C. Translation book  
+  
 Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons. Shanghai: Shanghai University of Finance and Economics. ISBN: 978-7-5642-3580-2/F· 3580  
   
 Work in Progress  
-Assessing Critical Thinking in EAP Speaking: Development and Validation of a Rating Scale  
+  
+**Assessing Critical Thinking in EAP Speaking: Development and Validation of a Rating Scale**  
 (with Yan Jin, Jason Fan, and Ute Knoch)  
   
-Investigating Critical Thinking in Chatbot Supported Group Discussion  
+**Investigating Critical Thinking in Chatbot Supported Group Discussion**  
 (with Kai Guo and Deliang Wang)  
   
-Integrating Critical Thinking in EAP writing  
+**Integrating Critical Thinking in EAP writing**  
 (with Chengyuan Yu and Peng Xin)  
   
-Presentation versus Discussion: A Sequential Analysis of Critical Thinking in EAP speaking  
+**Presentation versus Discussion: A Sequential Analysis of Critical Thinking in EAP speaking**  
 
 Teaching
 ======
 Current: The University of Melbourne, School of Languages and Linguistics  
 **Academic English 1 (ESLA10003)**, **Advanced Self-Editing (ESLA90002)** at undergraduate level and **Language Assessment (LING 9009)** at postgraduate level.  
+  
 Previous: Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
 **General Academic English**, **Introduction to Linguistics and Applied Linguistics**, **Second Language Acquisition** and **Language Assessment and Pedagogy** at undergraduate level.  
   
@@ -107,8 +128,8 @@ Interim reviewer and final report evaluator for National Education Examinations 
 Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021.   
 • Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  
 • ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  
-• AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer  
-&nbsp;&nbsp;&nbsp;&nbsp;▪ Manage operational activities (e.g., engaging student members, encouraging membership, offering on-site support for events)  
+• AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Manage operational activities (e.g., engaging student members, encouraging membership, offering on-site support for events)  </span>
 &nbsp;&nbsp;&nbsp;&nbsp;▪ Active participation in discussions and provide feedback on proposed initiatives  
 &nbsp;&nbsp;&nbsp;&nbsp;▪ Edit the In Conversation Series  
 &nbsp;&nbsp;&nbsp;&nbsp;▪ Draft the cover page report for the seventh conference of AALA  
@@ -118,3 +139,10 @@ Language Ability to College English Test Band 4 and 6”, January 17- February 7
 &nbsp;&nbsp;&nbsp;&nbsp;▪ Support the ALTAANZ Executive Committee  
 &nbsp;&nbsp;&nbsp;&nbsp;▪ Work with the Student Representatives to build a strong ALTAANZ student community  
 
+<style type="text/css">
+.hanging-indent {
+    padding-left: 2em;
+    text-indent: -2em;
+    display: block;
+}
+</style>

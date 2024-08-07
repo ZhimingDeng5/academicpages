@@ -163,6 +163,5 @@ Language Ability to College English Test Band 4 and 6”, January 17- February 7
 <style type="text/css">
 .right-align {
     text-align: right;
-    display: block;
 }
 </style>

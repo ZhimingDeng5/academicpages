@@ -13,18 +13,22 @@ About
 ======
 
 I am a joint PhD candidate at the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, rating scale
-development and validation, classroom-based assessment, and critical thinking ability. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, and TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024.
-Here is my [CV](https://shengkaiyin.com/files/Shengkai-CV.pdf). You can reach me at shengkai.yin1@unimelb.edu.au or DM me on [LinkedIn] (https://www.linkedin.com/in/shengkai-yin/).
+development and validation, classroom-based assessment, and critical thinking ability. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, and TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024.  
+  
+Here is my [CV](https://shengkaiyin.com/files/Shengkai-CV.pdf). You can reach me at shengkai.yin1@unimelb.edu.au or DM me on [LinkedIn](https://www.linkedin.com/in/shengkai-yin/).
 
 Employment
 ======
 
 **Sessional Academic Tutor**	2023 - current  
 The University of Melbourne, School of Languages and Linguistics  
+  
 **Research Assistant** 	2023 - current  
 The University of Melbourne, Language Testing Research Center  
+  
 **University Lecture (T&R, full-time)** 	2019 – 2020  
 Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
+  
 **TOEFL Instructor** (part-time)	2017 – 2019  
 New Oriental Educational and Teaching Group, Shanghai, China  
 
@@ -50,18 +54,19 @@ Interim reviewer and final report evaluator for National Education Examinations 
 • Ad-hoc Reviewer for Journals: “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  
 • Academic contributor to the project “Linking China’s Standards of English  
   
-Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021. • Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  
+Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021.   
+• Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  
 • ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  
 • AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer  
-   Manage operational activities (e.g., engaging student members, encouraging membership, offering on-site support for events)  
-   Active participation in discussions and provide feedback on proposed initiatives  
-   Edit the In Conversation Series  
-   Draft the cover page report for the seventh conference of AALA  
+    ▪ Manage operational activities (e.g., engaging student members, encouraging membership, offering on-site support for events)  
+    ▪ Active participation in discussions and provide feedback on proposed initiatives  
+    ▪ Edit the In Conversation Series  
+    ▪ Draft the cover page report for the seventh conference of AALA  
   
 • Member in ALTAANZ (Association for Language Testing and Assessment of Australia and New Zealand) Reference Group 2022-2024  
-   Help editorial team to enhance the journal, Studies in Language Assessment  
-   Support the ALTAANZ Executive Committee  
-   Work with the Student Representatives to build a strong ALTAANZ student community  
+    ▪ Help editorial team to enhance the journal, Studies in Language Assessment  
+    ▪ Support the ALTAANZ Executive Committee  
+    ▪ Work with the Student Representatives to build a strong ALTAANZ student community  
 
 For more info
 ------

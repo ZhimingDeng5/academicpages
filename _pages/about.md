@@ -31,21 +31,61 @@ Shanghai Polytechnic University, School of Foreign Languages and Cultural Commun
   
 **TOEFL Instructor** (part-time)	2017 – 2019  
 New Oriental Educational and Teaching Group, Shanghai, China  
+1 Announcement: https://www.britishcouncil.org/exam/aptis/research/grants-and-awards/awards
+2 Announcement: https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/
+3 Announcement: https://go.unimelb.edu.au/7bo8
   
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
+Awards & Grants
 ======
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+| Year | Awards                                                                                                                                            | Amount |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------|
+| 2024 | University of Melbourne Research Essential Grant                                                                                                  | AUD 5,990 |
+|      | TOEFL/ITLA Student Travel Grant                                                                                                                   | USD 2,500 |
+| 2023 | University of Melbourne Graduate Research in Arts Travel Scheme                                                                                   | AUD 1,500 |
+|      | Research and Graduate Studies Grant (Languages and Linguistics)                                                                                   | AUD 2,000 |
+|      | [**British Council Assessment Research Awards**](https://www.britishcouncil.org/exam/aptis/research/grants-and-awards/awards)<sup>1</sup>         | GBP 2,500 |
+|      | Graduate Researcher Prize Scholarship; Outstanding Student Award; First Prize, Shanghai Jiao Tong University Scholarship                          | CNY 5,000 |
+| 2022 | [**Duolingo Dissertation Research Awards in Language Assessment**](https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/)<sup>2</sup> | USD 6,000 |
+| 2020 | [**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program (Fellowship) (WH610160507/047)**](https://go.unimelb.edu.au/7bo8)<sup>3</sup>   | AUD 20,000 |
 
-**Markdown generator**
+Research
+======
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
+Publications  
+  
+A. Peer-reviewed Journal Articles  
+(1) Yin, S., Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking. Journal of English for Academic Purposes, 1-14.](https://doi.org/10.1016/j.jeap.2024.101426)  [SSCI, Q1 in Linguistics and Education, JIF: 3.1]  
+(2) Yin, S., Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking. RELC Journal, 1-14.](https://doi.org/10.1177/00336882231222651) [SSCI, Q1 in Linguistics, JIF: 3.6]  
+(3) Sun, Q., Chen, F., & Yin, S. (2023). [The role and features of peer assessment feedback in college English writing. Frontiers in Psychology, 13:1070618, 1-16.](https://doi.org/10.3389/fpsyg.2022.1070618) [SSCI, Q1 in Psychology, JIF: 3.8]  
+(4) Yin, S. & Jin, Y. (2022).[The effect of critical thinking on the performances of integrated speaking assessments. Foreign Languages and Their Teaching, 327(6): 66-77.](https://doi.org/10.13458/j.cnki.flatt.004905) [CSSCI-indexed, Top journal in China]  
+(5) Yin, S., Chen, F., & Chang, H. (2022). [Assessment as learning: How does peer assessment function in students’ learning? Frontiers in Psychology, 13: 912568, 1-14.](https://doi.org/10.3389/fpsyg.2022.912568) [SSCI, Q1 in Psychology, JIF: 3.8]  
+(6) Sun, H. & Yin, S. (2022). [Review of Language Aptitude: Advancing Theory, Testing, Research and Practice. Assessing Writing, 51 (1)：1-4.](https://doi.org/10.1016/j.asw.2021.100588) [SSCI, Q1 in Linguistics, JIF: 4.2]  
+  
+B. Conference papers  
+(1) **Yin, S.** (2024). Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale. In Proceedings of the 45th Language Testing Research Colloquium (LTRC) 2024, Innsbruck, Austria. Research paper presentation.  
+(2) **Yin, S.**., Jin, Y., & Fan, J. (2024) Understanding critical thinking in EAP speaking: Evidence from the CET-SET6. Academic Forum on English Language Testing in Asia (AFELTA) 2024, Singapore. Research paper presentation.  
+(3) **Yin, S.** (2023). Assessing critical thinking in EAP speaking: Design and validation of a rating scale. In Proceedings of the 44th Language Testing Research Colloquium (LTRC) 2023, New York City, United States. presentation.  
+(4) **Yin, S.** (2022). Assessing critical thinking in EAP speaking: Development and validation of a rating scale. In Proceedings of the 8th Annual International Conference of the Asian Association for Language Assessment (AALA) 2022, Chennai, India. poster, slides.  
+(5) Sun, Q., Chen, F. & **Yin, S.** (2022). Understanding diversified evaluation in ESL writing classroom: An insight from effectiveness of peer assessment feedback. New Direction 2022, British Council, England. Slides.  
+(6) **Yin, S.** (2021). Investigating the Relationships Between Test Takers’ Critical Thinking Ability and Their Performances on Speaking Task：A Case Study of TOEFL Integrated Speaking Task. In Proceedings of the 19th World Congress of Applied Linguistics (AILA) 2021, Groningen, the Netherlands. poster, slides.  
+(7) **Yin, S.** (2021). Validating dynamic assessment: an argument-based approach. In Proceedings of The Sixth Conference on Language Testing and Assessment 2021, pp.42. Shanghai, China. paper, slides.  
+(8) **Yin, S.** & Chen, F. (2021). Assessing by peers: How it benefits students’ learning. In Proceedings of the 7th Annual International Conference of the Asian Association for Language Assessment (AALA) 2021, Seoul, Korea. paper, slides.  
+(9) **Yin, S.** (2020). On Integrated Speaking Test Performance and its Relation with Critical Thinking: A Case Study of TOEFL Integrated Speaking Task. In Proceedings of the Fifth International Conference on Language Testing and Assessment. Guangzhou, China. paper, slides.  
+  
+C. Translation book  
+Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons. Shanghai: Shanghai University of Finance and Economics. ISBN: 978-7-5642-3580-2/F· 3580  
+  
+Work in Progress  
+Assessing Critical Thinking in EAP Speaking: Development and Validation of a Rating Scale  
+(with Yan Jin, Jason Fan, and Ute Knoch)  
+  
+Investigating Critical Thinking in Chatbot Supported Group Discussion  
+(with Kai Guo and Deliang Wang)  
+  
+Integrating Critical Thinking in EAP writing  
+(with Chengyuan Yu and Peng Xin)  
+  
+Presentation versus Discussion: A Sequential Analysis of Critical Thinking in EAP speaking  
 
 Teaching
 ======
@@ -77,10 +117,3 @@ Language Ability to College English Test Band 4 and 6”, January 17- February 7
 &nbsp;&nbsp;&nbsp;&nbsp;▪ Support the ALTAANZ Executive Committee  
 &nbsp;&nbsp;&nbsp;&nbsp;▪ Work with the Student Representatives to build a strong ALTAANZ student community  
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
-
-For testing
-------
-testing section

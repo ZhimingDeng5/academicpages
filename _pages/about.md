@@ -48,7 +48,7 @@ Graduate Researcher Prize Scholarship; Outstanding Student Award; First Prize, S
 Year: 2022  
 [**Duolingo Dissertation Research Awards in Language Assessment**](https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/&#41) (USD 6,000)  
 
-Year: 2022  
+Year: 2020  
 [**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program &#40;Fellowship&#41; &#40;WH610160507/047&#41;**](https://go.unimelb.edu.au/7bo8&#41) (AUD 20,000)  
   
 Research

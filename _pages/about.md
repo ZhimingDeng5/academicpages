@@ -36,7 +36,6 @@ Awards & Grants
 ======
   
 Year:2024  
-
 University of Melbourne Research Essential Grant (AUD 5,990)  
 TOEFL/ITLA Student Travel Grant (USD 2,500)  
 

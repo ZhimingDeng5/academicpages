@@ -37,16 +37,16 @@ New Oriental Educational and Teaching Group, Shanghai, China
   
 Awards & Grants
 ======
-| Year | Awards                                                                                                                                            | Amount |
-|------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------|
-| 2024 | University of Melbourne Research Essential Grant                                                                                                  | AUD 5,990 |
-|      | TOEFL/ITLA Student Travel Grant                                                                                                                   | USD 2,500 |
-| 2023 | University of Melbourne Graduate Research in Arts Travel Scheme                                                                                   | AUD 1,500 |
-|      | Research and Graduate Studies Grant (Languages and Linguistics)                                                                                   | AUD 2,000 |
-|      | [**British Council Assessment Research Awards**](https://www.britishcouncil.org/exam/aptis/research/grants-and-awards/awards)<sup>1</sup>         | GBP 2,500 |
-|      | Graduate Researcher Prize Scholarship; Outstanding Student Award; First Prize, Shanghai Jiao Tong University Scholarship                          | CNY 5,000 |
-| 2022 | [**Duolingo Dissertation Research Awards in Language Assessment**](https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/)<sup>2</sup> | USD 6,000 |
-| 2020 | [**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program (Fellowship) (WH610160507/047)**](https://go.unimelb.edu.au/7bo8)<sup>3</sup>   | AUD 20,000 |
+| Year | Awards                                                                                                                                                                        | Amount     |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| 2024 | University of Melbourne Research Essential Grant                                                                                                                              | AUD 5,990  |
+|      | TOEFL/ITLA Student Travel Grant                                                                                                                                               | USD 2,500  |
+| 2023 | University of Melbourne Graduate Research in Arts Travel Scheme                                                                                                               | AUD 1,500  |
+|      | Research and Graduate Studies Grant (Languages and Linguistics)                                                                                                               | AUD 2,000  |
+|      | [**British Council Assessment Research Awards**](https://www.britishcouncil.org/exam/aptis/research/grants-and-awards/awards)<sup>1</sup>                                     | GBP 2,500  |
+|      | Graduate Researcher Prize Scholarship; Outstanding Student Award; First Prize, Shanghai Jiao Tong University Scholarship                                                      | CNY 5,000  |
+| 2022 | [**Duolingo Dissertation Research Awards in Language Assessment**](https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/)<sup>2</sup>                             | USD 6,000  |
+| 2020 | [**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program (Fellowship) (WH610160507/047)**](https://go.unimelb.edu.au/7bo8)<sup>3</sup> | AUD 20,000 |
 
 Research
 ======

@@ -6,20 +6,16 @@ main:
   - title: "Employment"
     url: "#employment"
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Awards & Grants"
+    url: "#Awards--Grants"
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: "#research"
+
+  - title: "Teaching"
+    url: "#teaching"
 
   - title: "Service"
     url: "#service"
 
-  - title: "CV"
-    url: /cv/
 
-  - title: "Guide"
-    url: /markdown/
-
-#  - title: "testing"
-#    url: "#for-testing"

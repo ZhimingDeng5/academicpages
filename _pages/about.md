@@ -134,23 +134,23 @@ Service
 ======
 
 Interim reviewer and final report evaluator for National Education Examinations Authority – British Council English Assessment Research Grants, 2020-2024.  
-• Reviewer of the 11th and 12th British Council New Directions in Language Assessment East Asia, July 2023, 2024.  
-• Ad-hoc Reviewer for Journals: “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  
-• Academic contributor to the project “Linking China’s Standards of English  
+<span class="hanging-indent">• Reviewer of the 11th and 12th British Council New Directions in Language Assessment East Asia, July 2023, 2024.  </span>
+<span class="hanging-indent">• Ad-hoc Reviewer for Journals: “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  </span>
+<span class="hanging-indent">• Academic contributor to the project “Linking China’s Standards of English  </span>
   
 Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021.   
-• Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  
-• ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  
-• AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer
+<span class="hanging-indent">• Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  </span>
+<span class="hanging-indent">• ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  </span>
+<span class="hanging-indent">• AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Manage operational activities (e.g., engaging student members, encouraging membership, offering on-site support for events)  </span>
-&nbsp;&nbsp;&nbsp;&nbsp;▪ Active participation in discussions and provide feedback on proposed initiatives  
-&nbsp;&nbsp;&nbsp;&nbsp;▪ Edit the In Conversation Series  
-&nbsp;&nbsp;&nbsp;&nbsp;▪ Draft the cover page report for the seventh conference of AALA  
-  
-• Member in ALTAANZ (Association for Language Testing and Assessment of Australia and New Zealand) Reference Group 2022-2024  
-&nbsp;&nbsp;&nbsp;&nbsp;▪ Help editorial team to enhance the journal, Studies in Language Assessment  
-&nbsp;&nbsp;&nbsp;&nbsp;▪ Support the ALTAANZ Executive Committee  
-&nbsp;&nbsp;&nbsp;&nbsp;▪ Work with the Student Representatives to build a strong ALTAANZ student community  
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Active participation in discussions and provide feedback on proposed initiatives  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Edit the In Conversation Series  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Draft the cover page report for the seventh conference of AALA  </span>
+
+<span class="hanging-indent">• Member in ALTAANZ (Association for Language Testing and Assessment of Australia and New Zealand) Reference Group 2022-2024  
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Help editorial team to enhance the journal, Studies in Language Assessment  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Support the ALTAANZ Executive Committee  </span>
+<span class="hanging-indent">&nbsp;&nbsp;&nbsp;&nbsp;▪ Work with the Student Representatives to build a strong ALTAANZ student community  </span>
 
 <style type="text/css">
 .hanging-indent {

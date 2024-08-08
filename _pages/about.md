@@ -26,7 +26,7 @@ The University of Melbourne, School of Languages and Linguistics
 **Research Assistant** 	2023 - current  
 The University of Melbourne, Language Testing Research Center  
   
-**University Lecture (T&R, full-time)** 	2019 – 2020  
+**Lecturer (T&R, full-time)** 	2019 – 2020  
 Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
   
 **TOEFL Instructor** (part-time)	2017 – 2019  

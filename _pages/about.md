@@ -42,14 +42,14 @@ TOEFL/ITLA Student Travel Grant (USD 2,500)
 Year: 2023  
 University of Melbourne Graduate Research in Arts Travel Scheme (AUD 1,500)  
 Research and Graduate Studies Grant (Languages and Linguistics) (AUD 2,000)  
-[**British Council Assessment Research Awards**](https://www.britishcouncil.org/exam/aptis/research/grants-and-awards/awards&#41) (GBP 2,500)  
+[**British Council Assessment Research Awards**](https://www.britishcouncil.org/exam/english/aptis/research/grants-and-awards/awards) (GBP 2,500)  
 Graduate Researcher Prize Scholarship; Outstanding Student Award; First Prize, Shanghai Jiao Tong University Scholarship (CNY 5,000)  
 
 Year: 2022  
 [**Duolingo Dissertation Research Awards in Language Assessment**](https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/&#41) (USD 6,000)  
 
 Year: 2020  
-[**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program &#40;Fellowship&#41; &#40;WH610160507/047&#41;**](https://go.unimelb.edu.au/7bo8&#41) (AUD 20,000)  
+[**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program &#40;Fellowship&#41; &#40;WH610160507/047&#41;**](https://research.unimelb.edu.au/strengths/initiatives/international-training-groups/shanghai-melbourne-research-training-group/current-projects/conceptualising-and-operationalising-the-construct-of-critical-thinking-in-speaking) (AUD 20,000)  
   
 Research
 ======
@@ -58,13 +58,13 @@ Publications
   
 A. Peer-reviewed Journal Articles  
   
-**Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking.](https://doi.org/10.1016/j.jeap.2024.101426)   *Journal of English for Academic Purposes*, 1-14.
+**Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking.](https://doi.org/10.1016/j.jeap.2024.101426)   *Journal of English for Academic Purposes*, 1-14.  
 [SSCI, Q1 in Linguistics and Education, JIF: 3.1]  
 
-**Yin, S.**, Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking.](https://doi.org/10.1177/00336882231222651) *RELC Journal*, 1-14.]  
+**Yin, S.**, Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking.](https://doi.org/10.1177/00336882231222651) *RELC Journal*, 1-14.  
 [SSCI, Q1 in Linguistics, JIF: 3.6]  
   
-Sun, Q., Chen, F., & **Yin, S.** (2023). [The role and features of peer assessment feedback in college English writing.](https://doi.org/10.3389/fpsyg.2022.1070618)  *Frontiers in Psychology, 13:1070618*, 1-16.]  
+Sun, Q., Chen, F., & **Yin, S.** (2023). [The role and features of peer assessment feedback in college English writing.](https://doi.org/10.3389/fpsyg.2022.1070618)  *Frontiers in Psychology, 13:1070618*, 1-16.  
 [SSCI, Q1 in Psychology, JIF: 3.8]  
 
 **Yin, S.** & Jin, Y. (2022).[The effect of critical thinking on the performances of integrated speaking assessments.](https://doi.org/10.13458/j.cnki.flatt.004905) *Foreign Languages and Their Teaching*, 327(6): 66-77.  
@@ -125,12 +125,10 @@ Previous: Shanghai Polytechnic University, School of Foreign Languages and Cultu
 Service
 ======
 
-Interim reviewer and final report evaluator for National Education Examinations Authority – British Council English Assessment Research Grants, 2020-2024.  
+<span class="hanging-indent-title">• Interim reviewer and final report evaluator for National Education Examinations Authority – British Council English Assessment Research Grants, 2020-2024.  </span>
 <span class="hanging-indent-title">• Reviewer of the 11th and 12th British Council New Directions in Language Assessment East Asia, July 2023, 2024.  </span>
 <span class="hhanging-indent-title">• Ad-hoc Reviewer for Journals: “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  </span>
-<span class="hanging-indent-title">• Academic contributor to the project “Linking China’s Standards of English  </span>
-  
-Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021.   
+<span class="hanging-indent-title">• Academic contributor to the project “Linking China’s Standards of English Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021.  </span>
 <span class="hanging-indent-title">• Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  </span>
 <span class="hanging-indent-title">• ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  </span>
 <span class="hanging-indent-title">• AALA (Asian Association for Language Assessment) Student Committee Member, Public Relation Officer  </span>

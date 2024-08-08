@@ -26,7 +26,7 @@ The University of Melbourne, School of Languages and Linguistics
 **Research Assistant** 	2023 - current  
 The University of Melbourne, Language Testing Research Center  
   
-**Lecturer (T&R, full-time)** 	2019 – 2020  
+**Lecturer** (T&R, full-time) 	2019 – 2020  
 Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
   
 **TOEFL Instructor** (part-time)	2017 – 2019  
@@ -54,7 +54,7 @@ Year: 2020
 Research
 ======
 
-Publications  
+*Publications* 
   
 A. Peer-reviewed Journal Articles  
   
@@ -64,10 +64,10 @@ A. Peer-reviewed Journal Articles
 **Yin, S.**, Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking.](https://doi.org/10.1177/00336882231222651) *RELC Journal*, 1-14.  
 [SSCI, Q1 in Linguistics, JIF: 3.6]  
   
-Sun, Q., Chen, F., & **Yin, S.** (2023). [The role and features of peer assessment feedback in college English writing.](https://doi.org/10.3389/fpsyg.2022.1070618)  *Frontiers in Psychology, 13:1070618*, 1-16.  
+Sun, Q., Chen, F., & **Yin, S.** (2023). [The role and features of peer assessment feedback in college English writing.](https://doi.org/10.3389/fpsyg.2022.1070618)  *Frontiers in Psychology, 13*:1070618, 1-16.  
 [SSCI, Q1 in Psychology, JIF: 3.8]  
 
-**Yin, S.** & Jin, Y. (2022).[The effect of critical thinking on the performances of integrated speaking assessments.](https://doi.org/10.13458/j.cnki.flatt.004905) *Foreign Languages and Their Teaching*, 327(6): 66-77.  
+**Yin, S.** & Jin, Y. (2022).[The effect of critical thinking on the performances of integrated speaking assessments.](https://doi.org/10.13458/j.cnki.flatt.004905) *Foreign Languages and Their Teaching, 327* (6): 66-77.  
 [CSSCI-indexed, Top journal in China]  
 
 **Yin, S.**, Chen, F., & Chang, H. (2022). [Assessment as learning: How does peer assessment function in students’ learning?](https://doi.org/10.3389/fpsyg.2022.912568) *Frontiers in Psychology, 13*: 912568, 1-14.  
@@ -80,7 +80,7 @@ B. Conference papers
   
 **Yin, S.** (2024). Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale. In Proceedings of *the 45th Language Testing Research Colloquium (LTRC) 2024*, Innsbruck, Austria. Research paper presentation.  
   
-**Yin, S.**., Jin, Y., & Fan, J. (2024) Understanding critical thinking in EAP speaking: Evidence from the CET-SET6. *Academic Forum on English Language Testing in Asia (AFELTA) 2024*, Singapore. Research paper presentation.  
+**Yin, S.**, Jin, Y., & Fan, J. (2024) Understanding critical thinking in EAP speaking: Evidence from the CET-SET6. *Academic Forum on English Language Testing in Asia (AFELTA) 2024*, Singapore. Research paper presentation.  
   
 **Yin, S.** (2023). Assessing critical thinking in EAP speaking: Design and validation of a rating scale. In Proceedings of *the 44th Language Testing Research Colloquium (LTRC) 2023*, New York City, United States. presentation.  
   
@@ -100,7 +100,7 @@ C. Translation book
   
 Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons. Shanghai: Shanghai University of Finance and Economics. ISBN: 978-7-5642-3580-2/F· 3580  
   
-Work in Progress  
+*Work in Progress*  
   
 **Assessing Critical Thinking in EAP Speaking: Development and Validation of a Rating Scale**  
 (with Yan Jin, Jason Fan, and Ute Knoch)  

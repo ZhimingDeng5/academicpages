@@ -36,20 +36,20 @@ Awards & Grants
 ======
   
 Year: 2024  
-University of Melbourne Research Essential Grant (AUD 5,990)  
-TOEFL/ITLA Student Travel Grant (USD 2,500)  
+<span class="hanging-indent-title">• University of Melbourne Research Essential Grant (AUD 5,990)  </span>
+<span class="hanging-indent-title">• TOEFL/ITLA Student Travel Grant (USD 2,500)  </span>
 
 Year: 2023  
-University of Melbourne Graduate Research in Arts Travel Scheme (AUD 1,500)  
-Research and Graduate Studies Grant (Languages and Linguistics) (AUD 2,000)  
-[**British Council Assessment Research Awards**](https://www.britishcouncil.org/exam/english/aptis/research/grants-and-awards/awards) (GBP 2,500)  
-Graduate Researcher Prize Scholarship; Outstanding Student Award; First Prize, Shanghai Jiao Tong University Scholarship (CNY 5,000)  
+<span class="hanging-indent-title">• University of Melbourne Graduate Research in Arts Travel Scheme (AUD 1,500)  </span>
+<span class="hanging-indent-title">• Research and Graduate Studies Grant (Languages and Linguistics) (AUD 2,000)  </span>
+<span class="hanging-indent-title">• [**British Council Assessment Research Awards**](https://www.britishcouncil.org/exam/english/aptis/research/grants-and-awards/awards) (GBP 2,500)  </span>
+<span class="hanging-indent-title">• Graduate Researcher Prize Scholarship; Outstanding Student Award; First Prize, Shanghai Jiao Tong University Scholarship (CNY 5,000)  </span>
 
 Year: 2022  
-[**Duolingo Dissertation Research Awards in Language Assessment**](https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/&#41) (USD 6,000)  
+<span class="hanging-indent-title">• [**Duolingo Dissertation Research Awards in Language Assessment**](https://blog.duolingo.com/p/905403ae-572f-431a-8bf6-ba5037f2ec85/&#41) (USD 6,000)  </span>
 
 Year: 2020  
-[**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program &#40;Fellowship&#41; &#40;WH610160507/047&#41;**](https://research.unimelb.edu.au/strengths/initiatives/international-training-groups/shanghai-melbourne-research-training-group/current-projects/conceptualising-and-operationalising-the-construct-of-critical-thinking-in-speaking) (AUD 20,000)  
+<span class="hanging-indent-title">• [**Seed Funding of Shanghai Jiao Tong University- The University of Melbourne Joint PhD Program &#40;Fellowship&#41; &#40;WH610160507/047&#41;**](https://research.unimelb.edu.au/strengths/initiatives/international-training-groups/shanghai-melbourne-research-training-group/current-projects/conceptualising-and-operationalising-the-construct-of-critical-thinking-in-speaking) (AUD 20,000)  </span>
   
 Research
 ======
@@ -136,7 +136,6 @@ Service
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Active participation in discussions and provide feedback on proposed initiatives  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Edit the In Conversation Series  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Draft the cover page report for the seventh conference of AALA  </span>
-
 <span class="hanging-indent-title">• Member in ALTAANZ (Association for Language Testing and Assessment of Australia and New Zealand) Reference Group 2022-2024  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Help editorial team to enhance the journal, Studies in Language Assessment  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Support the ALTAANZ Executive Committee  </span>

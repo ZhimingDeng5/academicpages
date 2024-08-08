@@ -108,10 +108,10 @@ Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Lif
 **Investigating Critical Thinking in Chatbot Supported Group Discussion**  
 (with Kai Guo and Deliang Wang)  
   
-**Integrating Critical Thinking in EAP writing**  
+**Integrating Critical Thinking in EAP Writing**  
 (with Chengyuan Yu and Peng Xin)  
   
-**Presentation versus Discussion: A Sequential Analysis of Critical Thinking in EAP speaking**  
+**Presentation versus Discussion: A Sequential Analysis of Critical Thinking in EAP Speaking**  
 
 Teaching
 ======

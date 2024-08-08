@@ -141,7 +141,6 @@ Service
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Support the ALTAANZ Executive Committee  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Work with the Student Representatives to build a strong ALTAANZ student community  </span>
 
-this is <span style="color: blue">blue text</span>
 <style type="text/css">
 .hanging-indent {
     padding-left: 1.25em;

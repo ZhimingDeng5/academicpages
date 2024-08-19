@@ -141,6 +141,12 @@ Service
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Support the ALTAANZ Executive Committee  </span>
 <span class="hanging-indent">&nbsp;&nbsp;&nbsp;- Work with the Student Representatives to build a strong ALTAANZ student community  </span>
 
+Blog
+======
+
+[“The University of Melbourne had a strong presence this year”: SOLL Researchers’ Presentations at LTRC 2024 in Innsbruck, Austria](https://blogs.unimelb.edu.au/soll-talk/2024/08/18/the-university-of-melbourne-had-a-strong-presence-this-year-soll-researchers-presentations-at-ltrc-2024-in-innsbruck-austria/)    
+[Graduate Researcher Series: an interview with Shengkai Yin](https://blogs.unimelb.edu.au/soll-talk/2022/12/18/graduate-researcher-series-an-interview-with-shengkai-yin/)
+
 <style type="text/css">
 .hanging-indent {
     padding-left: 1.25em;

@@ -20,7 +20,7 @@ Here is my [CV](https://shengkaiyin.com/files/Shengkai-CV.pdf). You can reach me
 Employment
 ======
 
-**Sessional Academic Lecturer**	2024 - current  
+**Guesting Lecturer**	2024 - current  
 Federation University Australia, Institute of Education, Arts, and Community   
 
 **Sessional Academic Tutor**	2023 - current  

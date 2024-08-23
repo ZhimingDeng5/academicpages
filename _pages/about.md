@@ -20,6 +20,9 @@ Here is my [CV](https://shengkaiyin.com/files/Shengkai-CV.pdf). You can reach me
 Employment
 ======
 
+**Sessional Academic Lecturer**	2024 - current  
+Federation University Australia, Institute of Education, Arts, and Community   
+
 **Sessional Academic Tutor**	2023 - current  
 The University of Melbourne, School of Languages and Linguistics  
   
@@ -115,10 +118,14 @@ Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Lif
 
 Teaching
 ======
-Current: The University of Melbourne, School of Languages and Linguistics  
+Current: 
+Federation University Australia, Institute of Education, Arts, and Community (Post Graduate Education)
+**Phonetics, Phonology and Oral Communication (EDBSP1023)** 
+The University of Melbourne, School of Languages and Linguistics  
 **Academic English 1 (ESLA10003)**, **Advanced Self-Editing (ESLA90002)** at undergraduate level and **Language Assessment (LING 9009)** at postgraduate level.  
   
-Previous: Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
+Previous: 
+Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
 **General Academic English**, **Introduction to Linguistics and Applied Linguistics**, **Second Language Acquisition** and **Language Assessment and Pedagogy** at undergraduate level.  
   
 

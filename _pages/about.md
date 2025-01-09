@@ -82,7 +82,11 @@ Sun, H. & **Yin, S.** (2022). [Review of Language Aptitude: Advancing Theory, Te
 [SSCI, Q1 in Linguistics, JIF: 4.2]  
   
 B. Conference papers  
-  
+
+**Yin, S.** (2025). Expanding construct in EAP speaking assessment: Defining and operationalizing a critical thinking perspective. In Proceedings of *the 46th Language Testing Research Colloquium (LTRC) 2025*, Bankok, Thailand. Research paper presentation.  
+
+**Yin, S.** (2025). Towards a framework of critical thinking for assessing EAP speaking. In Proceedings of *the 46th Language Testing Research Colloquium (LTRC) 2025*, Bankok, Thailand. Research paper presentation. 
+
 **Yin, S.** (2024). Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale. In Proceedings of *the 45th Language Testing Research Colloquium (LTRC) 2024*, Innsbruck, Austria. Research paper presentation.  
   
 **Yin, S.**, Jin, Y., & Fan, J. (2024) Understanding critical thinking in EAP speaking: Evidence from the CET-SET6. *Academic Forum on English Language Testing in Asia (AFELTA) 2024*, Singapore. Research paper presentation.  
@@ -131,7 +135,7 @@ The University of Melbourne, School of Languages and Linguistics
 Previous: 
 
 Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
-**General Academic English**, **Introduction to Linguistics and Applied Linguistics**, **Second Language Acquisition** and **Language Assessment and Pedagogy** at undergraduate level.  
+**General Academic English**, **Introduction to Linguistics and Applied Linguistics**, **Second Language Acquisition** and **Language Curriculum, Assessment and Pedagogy** at undergraduate level.  
   
 
 Service

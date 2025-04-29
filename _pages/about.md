@@ -12,7 +12,7 @@ PhD Candidate, University of Melbourne/Shanghai Jiao Tong University
 About
 ======
 
-I earned a joint PhD degree from the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, rating scale
+I earned a joint PhD degree from the University of Melbourne and Shanghai Jiao Tong University. My research interests include educational assessment, rating scale
 development and validation, classroom-based assessment, and critical thinking ability. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024, and TOEFL Grant for Doctoral Research in Language Assessment in 2025.  
   
 Here is my [CV](https://shengkaiyin.com/files/Shengkai-CV.pdf). You can reach me at [shengkai.yin@outlook.com](mailto:shengkai.yin@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/shengkai-yin/).
@@ -127,7 +127,7 @@ Teaching
 Current: 
 
 Federation University Australia, Institute of Education, Arts, and Community (Post Graduate Education)
-**Phonetics, Phonology and Oral Communication (EDBSP1023)** 
+**Phonetics, Phonology and Oral Communication (EDBSP1023)**, **Applied Psycholinguistics, UG (EDBSP2014) and PG (EDMSP6014)**
 
 The University of Melbourne, School of Languages and Linguistics  
 **Academic English 1 (ESLA10003)**, **Advanced Self-Editing (ESLA90002)** at undergraduate level and **Language Assessment (LING 9009)** at postgraduate level.  

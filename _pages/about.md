@@ -12,7 +12,7 @@ PhD Candidate, University of Melbourne/Shanghai Jiao Tong University
 About
 ======
 
-I am a joint PhD candidate at the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, rating scale
+I earned a joint PhD degree from the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, rating scale
 development and validation, classroom-based assessment, and critical thinking ability. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024, and TOEFL Grant for Doctoral Research in Language Assessment in 2025.  
   
 Here is my [CV](https://shengkaiyin.com/files/Shengkai-CV.pdf). You can reach me at [shengkai.yin@outlook.com](mailto:shengkai.yin@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/shengkai-yin/).

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD Candidate, University of Melbourne/Shanghai Jiao Tong University
+PhD, University of Melbourne/Shanghai Jiao Tong University
 
 About
 ======

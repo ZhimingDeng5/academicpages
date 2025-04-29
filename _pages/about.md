@@ -14,7 +14,7 @@ About
 
 I earned a joint PhD degree in educational assessment from the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, literacy education, and critical thinking ability. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024, and TOEFL Grant for Doctoral Research in Language Assessment in 2025.  
   
-Here is my [CV](https://shengkaiyin.com/files/Shengkai-Resume.pdf). You can reach me at [shengkai.yin@outlook.com](mailto:shengkai.yin@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/shengkai-yin/).
+Here is my [CV](https://shengkaiyin.com/files/Shengkai-Resume-WR.pdf). You can reach me at [shengkai.yin@outlook.com](mailto:shengkai.yin@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/shengkai-yin/).
   
 Employment
 ======

@@ -28,7 +28,7 @@ Federation University Australia, Institute of Education, Arts, and Community
 **Sessional Academic Tutor**	2023 - current  
 The University of Melbourne, School of Languages and Linguistics  
   
-**Research Assistant** 	2023 - current  
+**Research Assistant** 	2023 - 2025  
 The University of Melbourne, Language Testing Research Center  
   
 **Lecturer** (T&R, full-time) 	2019 – 2020  

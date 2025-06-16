@@ -19,7 +19,10 @@ Here is my [CV](https://shengkaiyin.com/files/Shengkai-Resume-WR.pdf). You can r
 Employment
 ======
 
-**Guest Lecturer**	2024 - current  
+**Sessional Academic Tutor**	2025 - current  
+Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
+
+**Fixed-term Lecturer**	2024 - current  
 Federation University Australia, Institute of Education, Arts, and Community   
 
 **Sessional Academic Tutor**	2023 - current  
@@ -124,6 +127,9 @@ Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Lif
 Teaching
 ======
 Current: 
+
+Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
+**Assessing teaching and learning (EDF2064)**
 
 Federation University Australia, Institute of Education, Arts, and Community (Post Graduate Education)
 **Phonetics, Phonology and Oral Communication (EDBSP1023)**, **Applied Psycholinguistics, UG (EDBSP2014) and PG (EDMSP6014)**

@@ -19,11 +19,11 @@ Here is my [CV](https://shengkaiyin.com/files/Shengkai-Resume-WR.pdf). You can r
 Employment
 ======
 
+**Lecturer**	2025 - current  
+Federation University Australia, Institute of Education, Arts, and Community 
+
 **Sessional Academic Tutor**	2025 - current  
 Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
-
-**Fixed-term Lecturer**	2024 - current  
-Federation University Australia, Institute of Education, Arts, and Community   
 
 **Sessional Academic Tutor**	2023 - current  
 The University of Melbourne, School of Languages and Linguistics  

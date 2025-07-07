@@ -12,14 +12,14 @@ PhD, University of Melbourne/Shanghai Jiao Tong University
 About
 ======
 
-I earned a joint PhD degree in educational assessment from the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, literacy education, and critical thinking ability. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024, and TOEFL Grant for Doctoral Research in Language Assessment in 2025.  
+I hold dual PhD degrees in educational assessment from the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, literacy education, and critical thinking ability. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024, and TOEFL Grant for Doctoral Research in Language Assessment in 2025.  
   
 Here is my [CV](https://shengkaiyin.com/files/Shengkai-Resume-WR.pdf). You can reach me at [shengkai.yin@outlook.com](mailto:shengkai.yin@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/shengkai-yin/).
   
 Employment
 ======
 
-**Lecturer**	2025 - current  
+**Lecturer** (full-time)	2025 - current  
 Federation University Australia, Institute of Education, Arts, and Community 
 
 **Sessional Academic Tutor**	2025 - current  
@@ -28,7 +28,7 @@ Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty
 **Sessional Academic Tutor**	2023 - current  
 The University of Melbourne, School of Languages and Linguistics  
   
-**Research Assistant** 	2023 - 2025  
+**Research Assistant** (part-time)	2023 - 2025  
 The University of Melbourne, Language Testing Research Center  
   
 **Lecturer** (T&R, full-time) 	2019 – 2020  
@@ -128,16 +128,16 @@ Teaching
 ======
 Current: 
 
+Federation University Australia, Institute of Education, Arts, and Community (Post Graduate Education)
+**Phonetics, Phonology and Oral Communication, UG (EDBSP1023) and PG (EDMST6113) (course coordination)**, **Academic Reading and Writing in Educational Research (EDMED7058) (course coordination)**, **Applied Psycholinguistics, UG (EDBSP2014) and PG (EDMSP6014)**, and **Language Acquisition (EDBSP1013)**  
+
 Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
 **Assessing teaching and learning (EDF2064)**
-
-Federation University Australia, Institute of Education, Arts, and Community (Post Graduate Education)
-**Phonetics, Phonology and Oral Communication (EDBSP1023)**, **Applied Psycholinguistics, UG (EDBSP2014) and PG (EDMSP6014)**
-
-The University of Melbourne, School of Languages and Linguistics  
-**Academic English 1 (ESLA10003)**, **Advanced Self-Editing (ESLA90002)** at undergraduate level and **Language Assessment (LING 9009)** at postgraduate level.  
   
 Previous: 
+
+The University of Melbourne, School of Languages and Linguistics  
+**Academic English 1 (ESLA10003)**, **Advanced Self-Editing (ESLA90002)** at undergraduate level and **Language Assessment (LING 9009)** at postgraduate level.
 
 Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
 **General Academic English**, **Introduction to Linguistics and Applied Linguistics**, **Second Language Acquisition** and **Language Curriculum, Assessment and Pedagogy** at undergraduate level.  

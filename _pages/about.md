@@ -41,7 +41,7 @@ Awards & Grants
 ======
 Year: 2025 
 <span class="hanging-indent-title">• [**TOEFL Grant for Doctoral Research in Language Assessment**](https://www.ets.org/toefl/grants/recipients.html#accordion-2097530954-item-7588e141f2) (USD 6,000)  </span>
-<span class="hanging-indent-title">• TOEFL/ITLA Student Travel Grant (USD 2,000)  </span>
+<span class="hanging-indent-title">• TOEFL/ILTA Student Travel Grant (USD 2,000)  </span>
 
 Year: 2024  
 <span class="hanging-indent-title">• University of Melbourne Research Essential Grant (AUD 5,990)  </span>

@@ -87,7 +87,7 @@ Sun, H. & **Yin, S.** (2022). [Review of Language Aptitude: Advancing Theory, Te
 
 B. Books  
 
-Yin, S. (upcoming). *Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale.* Peter Lang.  
+**Yin, S.** (upcoming). *Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale.* Peter Lang.  
 
 **Yin, S.**, Yu, C., & Peng, X. (upcoming). Promoting critical thinking in EAP writing classroom: A learning-oriented assessment approach. In T. Thai, & J. Pearson (Eds.), *The changing landscape of EAP assessment: Insights from diverse contexts.* Bloomsbury. 
 

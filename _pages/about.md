@@ -84,8 +84,16 @@ Sun, Q., Chen, F., & **Yin, S.** (2023). [The role and features of peer assessme
   
 Sun, H. & **Yin, S.** (2022). [Review of Language Aptitude: Advancing Theory, Testing, Research and Practice.](https://doi.org/10.1016/j.asw.2021.100588) *Assessing Writing, 51* (1)：1-4.  
 [SSCI, Q1 in Linguistics, JIF: 4.2]  
-  
-B. Conference papers  
+
+B. Books  
+
+Yin, S. (upcoming). *Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale.* Peter Lang.  
+
+**Yin, S.**, Yu, C., & Peng, X. (upcoming). Promoting critical thinking in EAP writing classroom: A learning-oriented assessment approach. In T. Thai, & J. Pearson (Eds.), *The changing landscape of EAP assessment: Insights from diverse contexts.* Bloomsbury. 
+
+Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons. Shanghai: Shanghai University of Finance and Economics. ISBN: 978-7-5642-3580-2/F· 3580  
+
+C. Conference papers  
 
 **Yin, S.** (2025). Expanding construct in EAP speaking assessment: Defining and operationalizing a critical thinking perspective. In Proceedings of *the 46th Language Testing Research Colloquium (LTRC) 2025*, Bankok, Thailand. Research paper presentation.  
 
@@ -109,15 +117,6 @@ Sun, Q., Chen, F. & **Yin, S.** (2022). Understanding diversified evaluation in 
   
 **Yin, S.** (2020). On Integrated Speaking Test Performance and its Relation with Critical Thinking: A Case Study of TOEFL Integrated Speaking Task. In Proceedings of *the Fifth International Conference on Language Testing and Assessment*. Guangzhou, China. paper, slides.  
   
-C. Books  
-
-Yin, S. (upcoming). *Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale.* Peter Lang.  
-
-**Yin, S.**, Yu, C., & Peng, X. (upcoming). Promoting critical thinking in EAP writing classroom: A learning-oriented assessment approach. In T. Thai, & J. Pearson (Eds.), *The changing landscape of EAP assessment: Insights from diverse contexts.* Bloomsbury. 
-
-Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons. Shanghai: Shanghai University of Finance and Economics. ISBN: 978-7-5642-3580-2/F· 3580  
-
-
 Teaching
 ======
 Current: 
@@ -135,7 +134,11 @@ The University of Melbourne, School of Languages and Linguistics
 
 Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication  
 **General Academic English**, **Introduction to Linguistics and Applied Linguistics**, **Second Language Acquisition** and **Language Curriculum, Assessment and Pedagogy** at undergraduate level.  
-  
+
+Supervision 
+======
+Current: 2 Honours students in Speech Pathology
+Projects: "Speech Pathologists’ Assessment Practices for Identifying Language Impairments in CALD Students in Victorian Primary Schools"; "Professional development needs for implementing classroom-based augmentative and alternative communication (AAC): perspectives from mainstream Victorian primary school educators and speech pathologists" 
 
 Service
 ======

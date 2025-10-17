@@ -137,7 +137,7 @@ Shanghai Polytechnic University, School of Foreign Languages and Cultural Commun
 
 Supervision 
 ======
-Current: 2 Honours students in Speech Pathology
+Current: 2 Honours students in Speech Pathology  
 Projects: "Speech Pathologists’ Assessment Practices for Identifying Language Impairments in CALD Students in Victorian Primary Schools"; "Professional development needs for implementing classroom-based augmentative and alternative communication (AAC): perspectives from mainstream Victorian primary school educators and speech pathologists" 
 
 Service

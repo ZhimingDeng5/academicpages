@@ -12,14 +12,14 @@ PhD, University of Melbourne/Shanghai Jiao Tong University
 About
 ======
 
-I hold dual PhD degrees in educational assessment from the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, literacy education, and critical thinking ability. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024, and TOEFL Grant for Doctoral Research in Language Assessment in 2025.  
+I hold dual PhD degrees in educational assessment from the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, literacy education, and critical thinking ability. I have been awarded the 2025 Asian Association for Language Assessment (AALA) Outstanding Dissertation Award. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024, and TOEFL Grant for Doctoral Research in Language Assessment in 2025.  
   
-Here is my [CV](https://shengkaiyin.com/files/Shengkai-Resume-WR.pdf). You can reach me at [shengkai.yin@outlook.com](mailto:shengkai.yin@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/shengkai-yin/).
+You can reach me at [shengkai.yin@outlook.com](mailto:shengkai.yin@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/shengkai-yin/).
   
 Employment
 ======
 
-**Lecturer** (full-time)	2025 - current  
+**Lecturer**	2025 - current  
 Federation University Australia, Institute of Education, Arts, and Community 
 
 **Sessional Academic Tutor**	2025 - current  
@@ -40,6 +40,7 @@ New Oriental Educational and Teaching Group, Shanghai, China
 Awards & Grants
 ======
 Year: 2025 
+<span class="hanging-indent-title">• [**The Asian Association for Language Assessment (AALA) Outstanding Dissertation Award**](https://www.aalawebsite.com/award-winners)  </span>
 <span class="hanging-indent-title">• [**TOEFL Grant for Doctoral Research in Language Assessment**](https://www.ets.org/toefl/grants/recipients.html#accordion-2097530954-item-7588e141f2) (USD 6,000)  </span>
 <span class="hanging-indent-title">• TOEFL/ILTA Student Travel Grant (USD 2,000)  </span>
 
@@ -108,22 +109,14 @@ Sun, Q., Chen, F. & **Yin, S.** (2022). Understanding diversified evaluation in 
   
 **Yin, S.** (2020). On Integrated Speaking Test Performance and its Relation with Critical Thinking: A Case Study of TOEFL Integrated Speaking Task. In Proceedings of *the Fifth International Conference on Language Testing and Assessment*. Guangzhou, China. paper, slides.  
   
-C. Translation book  
-  
+C. Books  
+
+Yin, S. (upcoming). *Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale.* Peter Lang.  
+
+**Yin, S.**, Yu, C., & Peng, X. (upcoming). Promoting critical thinking in EAP writing classroom: A learning-oriented assessment approach. In T. Thai, & J. Pearson (Eds.), *The changing landscape of EAP assessment: Insights from diverse contexts.* Bloomsbury. 
+
 Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons. Shanghai: Shanghai University of Finance and Economics. ISBN: 978-7-5642-3580-2/F· 3580  
-  
-*Work in Progress*  
-  
-**Assessing Critical Thinking in EAP Speaking: Development and Validation of a Rating Scale**  
-(with Yan Jin, Jason Fan, and Ute Knoch)  
-  
-**Investigating Critical Thinking in Chatbot Supported Group Discussion**  
-(with Kai Guo and Deliang Wang)  
-  
-**Integrating Critical Thinking in EAP Writing**  
-(with Chengyuan Yu and Peng Xin)  
-  
-**Presentation versus Discussion: A Sequential Analysis of Critical Thinking in EAP Speaking**  
+
 
 Teaching
 ======

@@ -95,27 +95,27 @@ Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Lif
 
 C. Conference papers  
 
-**Yin, S.** (2025). Expanding construct in EAP speaking assessment: Defining and operationalizing a critical thinking perspective. In Proceedings of *the 46th Language Testing Research Colloquium (LTRC) 2025*, Bankok, Thailand. Research paper presentation.  
+**Yin, S.** (2025, June). *Expanding construct in EAP speaking assessment: Defining and operationalizing a critical thinking perspective.* The 46th Language Testing Research Colloquium (LTRC), Bankok, Thailand. Research paper presentation.  
 
-**Yin, S.** (2025). Towards a framework of critical thinking for assessing EAP speaking. In Proceedings of *the 46th Language Testing Research Colloquium (LTRC) 2025*, Bankok, Thailand. Research paper presentation. 
+**Yin, S.** (2025, June). *Towards a framework of critical thinking for assessing EAP speaking.* The 46th Language Testing Research Colloquium (LTRC), Bankok, Thailand. Research paper presentation. 
 
-**Yin, S.** (2024). Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale. In Proceedings of *the 45th Language Testing Research Colloquium (LTRC) 2024*, Innsbruck, Austria. Research paper presentation.  
+**Yin, S.** (2024, June). *Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale.* The 45th Language Testing Research Colloquium (LTRC), Innsbruck, Austria. Research paper presentation.  
   
-**Yin, S.**, Jin, Y., & Fan, J. (2024) Understanding critical thinking in EAP speaking: Evidence from the CET-SET6. *Academic Forum on English Language Testing in Asia (AFELTA) 2024*, Singapore. Research paper presentation.  
+**Yin, S.**, Jin, Y., & Fan, J. (2024, March) *Understanding critical thinking in EAP speaking: Evidence from the CET-SET6.* Academic Forum on English Language Testing in Asia (AFELTA), Singapore. Research paper presentation.  
   
-**Yin, S.** (2023). Assessing critical thinking in EAP speaking: Design and validation of a rating scale. In Proceedings of *the 44th Language Testing Research Colloquium (LTRC) 2023*, New York City, United States. presentation.  
+**Yin, S.** (2023, June). *Assessing critical thinking in EAP speaking: Design and validation of a rating scale.* The 44th Language Testing Research Colloquium (LTRC), New York City, United States. presentation.  
   
-**Yin, S.** (2022). Assessing critical thinking in EAP speaking: Development and validation of a rating scale. In Proceedings of *the 8th Annual International Conference of the Asian Association for Language Assessment (AALA) 2022*, Chennai, India. poster, slides.  
+**Yin, S.** (2022, June). *Assessing critical thinking in EAP speaking: Development and validation of a rating scale.* The 8th Annual International Conference of the Asian Association for Language Assessment (AALA), Chennai, India. poster, slides.  
   
-Sun, Q., Chen, F. & **Yin, S.** (2022). Understanding diversified evaluation in ESL writing classroom: An insight from effectiveness of peer assessment feedback. *New Direction 2022*, British Council, England. Slides.  
+Sun, Q., Chen, F. & **Yin, S.** (2022, June). *Understanding diversified evaluation in ESL writing classroom: An insight from effectiveness of peer assessment feedback.* New Direction, British Council, England. Slides.  
   
-**Yin, S.** (2021). Investigating the Relationships Between Test Takers’ Critical Thinking Ability and Their Performances on Speaking Task：A Case Study of TOEFL Integrated Speaking Task. In Proceedings of *the 19th World Congress of Applied Linguistics (AILA) 2021*, Groningen, the Netherlands. poster, slides.  
+**Yin, S.** (2021, July). *Investigating the Relationships Between Test Takers’ Critical Thinking Ability and Their Performances on Speaking Task：A Case Study of TOEFL Integrated Speaking Task.* The 19th World Congress of Applied Linguistics (AILA), Groningen, the Netherlands. poster, slides.  
   
-**Yin, S.** (2021). Validating dynamic assessment: an argument-based approach. In Proceedings of *The Sixth Conference on Language Testing and Assessment 2021*, pp.42. Shanghai, China. paper, slides.  
+**Yin, S.** (2021, June). *Validating dynamic assessment: an argument-based approach.* The Sixth Conference on Language Testing and Assessment, pp.42. Shanghai, China. paper, slides.  
   
-**Yin, S.** & Chen, F. (2021). Assessing by peers: How it benefits students’ learning. In Proceedings of *the 7th Annual International Conference of the Asian Association for Language Assessment (AALA) 2021*, Seoul, Korea. paper, slides.  
+**Yin, S.** & Chen, F. (2021, August). *Assessing by peers: How it benefits students’ learning.* The 7th Annual International Conference of the Asian Association for Language Assessment (AALA), Seoul, Korea. paper, slides.  
   
-**Yin, S.** (2020). On Integrated Speaking Test Performance and its Relation with Critical Thinking: A Case Study of TOEFL Integrated Speaking Task. In Proceedings of *the Fifth International Conference on Language Testing and Assessment*. Guangzhou, China. paper, slides.  
+**Yin, S.** (2020, June). *On Integrated Speaking Test Performance and its Relation with Critical Thinking: A Case Study of TOEFL Integrated Speaking Task.* The Fifth International Conference on Language Testing and Assessment. Guangzhou, China. paper, slides.  
   
 Teaching
 ======
@@ -125,7 +125,7 @@ Federation University Australia, Institute of Education, Arts, and Community (Po
 **Phonetics, Phonology and Oral Communication, UG (EDBSP1023) and PG (EDMST6113) (course coordination)**, **Academic Reading and Writing in Educational Research (EDMED7058) (course coordination)**, **Applied Psycholinguistics, UG (EDBSP2014) and PG (EDMSP6014)**, and **Language Acquisition (EDBSP1013)**  
 
 Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
-**Assessing teaching and learning (EDF2064)**
+**Assessing teaching and learning (EDF2064)**, **Planning for teaching and learning (EDF2063)**
   
 Previous: 
 
@@ -145,7 +145,7 @@ Service
 
 <span class="hanging-indent-title">• Interim reviewer and final report evaluator for National Education Examinations Authority – British Council English Assessment Research Grants, 2020-2024.  </span>
 <span class="hanging-indent-title">• Reviewer of the 11th and 12th British Council New Directions in Language Assessment East Asia, July 2023, 2024.  </span>
-<span class="hanging-indent-title">• Ad-hoc Reviewer for Journals: "Frontiers in Psychology"; “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  </span>
+<span class="hanging-indent-title">• Ad-hoc Reviewer for Journals: "Journal of Further and Higher Education"; "Frontiers in Psychology"; “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  </span>
 <span class="hanging-indent-title">• Academic contributor to the project “Linking China’s Standards of English Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021.  </span>
 <span class="hanging-indent-title">• Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  </span>
 <span class="hanging-indent-title">• ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  </span>

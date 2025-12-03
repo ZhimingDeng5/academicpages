@@ -85,7 +85,7 @@ Sun, Q., Chen, F., & **Yin, S.** (2023). [The role and features of peer assessme
 Sun, H. & **Yin, S.** (2022). [Review of Language Aptitude: Advancing Theory, Testing, Research and Practice.](https://doi.org/10.1016/j.asw.2021.100588) *Assessing Writing, 51* (1)：1-4.  
 [SSCI, Q1 in Linguistics, JIF: 4.2]  
 
-B. Books  
+B. Books and book chapters 
 
 **Yin, S.** (upcoming). *Conceptualizing and operationalizing the construct of critical thinking in EAP speaking: The development and validation of a rating scale.* Peter Lang.  
 

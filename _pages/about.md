@@ -91,9 +91,15 @@ B. Books
 
 **Yin, S.**, Yu, C., & Peng, X. (upcoming). Promoting critical thinking in EAP writing classroom: A learning-oriented assessment approach. In T. Thai, & J. Pearson (Eds.), *The changing landscape of EAP assessment: Insights from diverse contexts.* Bloomsbury. 
 
+Zhou, Z., **Yin, S.** & Yuan.Y. (upcoming). From Difference to Dialogue: Practicing Reflexivity in Collaborative TESOL Research on Linguistic Racism. In S. Yip, & L. Pretorius (Eds.), *Reflexivity in Action: Ethics, Power, and Representation in the Politics of Knowledge Production.* Routledge. 
+
+Zhou, Z. & **Yin, S.** (upcoming). Navigating Pedagogical Contradictions: An Autoethnographic Case Study of Two Chinese Transnational Teacher Educators in Australian Universities. In C. Carvalho., M. Antoun., N. Ciabattie., Y. Ma, & S. Yip (Eds.), *Transnational Teacher Educators in Australia: Lived Experiences, Identities, and Transitions.* Routledge. 
+
 Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons. Shanghai: Shanghai University of Finance and Economics. ISBN: 978-7-5642-3580-2/F· 3580  
 
 C. Conference papers  
+
+Sun, Q. & **Yin, S.** (2026, March). *Exploring Critical Engagement with GAl in Academic Writing: A Mixed-Methods Study.* The American Educational Research Association (AERC), Los Angeles, United States. Research paper presentation.
 
 **Yin, S.** (2025, June). *Expanding construct in EAP speaking assessment: Defining and operationalizing a critical thinking perspective.* The 46th Language Testing Research Colloquium (LTRC), Bankok, Thailand. Research paper presentation.  
 
@@ -105,7 +111,7 @@ C. Conference papers
   
 **Yin, S.** (2023, June). *Assessing critical thinking in EAP speaking: Design and validation of a rating scale.* The 44th Language Testing Research Colloquium (LTRC), New York City, United States. presentation.  
   
-**Yin, S.** (2022, June). *Assessing critical thinking in EAP speaking: Development and validation of a rating scale.* The 8th Annual International Conference of the Asian Association for Language Assessment (AALA), Chennai, India. poster, slides.  
+**Yin, S.** (2022, August). *Assessing critical thinking in EAP speaking: Development and validation of a rating scale.* The 8th Annual International Conference of the Asian Association for Language Assessment (AALA), Chennai, India. poster, slides.  
   
 Sun, Q., Chen, F. & **Yin, S.** (2022, June). *Understanding diversified evaluation in ESL writing classroom: An insight from effectiveness of peer assessment feedback.* New Direction, British Council, England. Slides.  
   

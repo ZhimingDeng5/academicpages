@@ -149,9 +149,10 @@ Projects: "Speech Pathologists’ Assessment Practices for Identifying Language 
 Service
 ======
 
+<span class="hanging-indent-title">• Associate Editor – TESOL in Context, 2026-2028.  </span>
 <span class="hanging-indent-title">• Interim reviewer and final report evaluator for National Education Examinations Authority – British Council English Assessment Research Grants, 2020-2024.  </span>
 <span class="hanging-indent-title">• Reviewer of the 11th and 12th British Council New Directions in Language Assessment East Asia, July 2023, 2024.  </span>
-<span class="hanging-indent-title">• Ad-hoc Reviewer for Journals: "Journal of Further and Higher Education"; "Frontiers in Psychology"; “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  </span>
+<span class="hanging-indent-title">• Ad-hoc Reviewer for Journals: "Thinking Skills and Creativity"; "RELC Journal"; "Journal of Further and Higher Education"; "Frontiers in Psychology"; “Foreign Languages and Their Teaching”; “TESOL Journal”; “Assessing Writing” ; “Journal of Language Teaching”  </span>
 <span class="hanging-indent-title">• Academic contributor to the project “Linking China’s Standards of English Language Ability to College English Test Band 4 and 6”, January 17- February 7, 2021.  </span>
 <span class="hanging-indent-title">• Academic contributor to the project “Construction of China’s Standards of English Language Ability Speaking Subscales Descriptors”, 2020.  </span>
 <span class="hanging-indent-title">• ILTA (International Language Testing Association) Graduate Student Assembly Steering Committee  </span>

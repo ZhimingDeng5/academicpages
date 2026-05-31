@@ -67,7 +67,11 @@ Research
   
 A. Peer-reviewed Journal Articles  
   
-**Yin, S.** (2026). [ Examining critical thinking in EAP speaking assessment: an argument-based validation study.] (https://doi.org/10.1016/j.tsc.2026.102253) *Thinking Skills and Creativity*
+Sun, Q. & **Yin, S.** (2026). [Exploring critical engagement in student-AI interaction for academic writing: A mixed-methods study.](https://doi.org/10.1007/s11528-026-01199-w) *TechTrentds*
+[ESCI, Q1 in Education, JIF: 3.7, Official journal of the Association for Educational Communications & Technology]
+
+**Yin, S.** (2026). [Examining critical thinking in EAP speaking assessment: an argument-based validation study.](https://doi.org/10.1016/j.tsc.2026.102253) *Thinking Skills and Creativity*
+[SSCI, Q1 in Education, JIF: 4.7]
 
 **Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking.](https://doi.org/10.1016/j.jeap.2024.101426)  *Journal of English for Academic Purposes*, 1-14.  
 [SSCI, Q1 in Linguistics and Education, JIF: 3.1]  

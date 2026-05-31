@@ -40,7 +40,7 @@ New Oriental Educational and Teaching Group, Shanghai, China
 Awards & Grants
 ======
 Year: 2026
-<span class="hanging-indent-title">• Scholarly Teaching and Learning Grants - Federation University Australia (AUD 1,000) </span>
+<span class="hanging-indent-title">• Scholarship of Learning and Teaching Grants - Federation University Australia (AUD 1,000) </span>
 
 Year: 2025 
 <span class="hanging-indent-title">• [**The Asian Association for Language Assessment (AALA) Outstanding Dissertation Award**](https://www.aalawebsite.com/award-winners)  </span>

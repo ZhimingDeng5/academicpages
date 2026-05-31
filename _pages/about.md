@@ -65,9 +65,9 @@ Research
 
 *Publications* 
   
-A. Peer-reviewed Journal Articles  
+A. Peer-reviewed journal articles  
   
-Sun, Q. & **Yin, S.** (2026). [Exploring critical engagement in student-AI interaction for academic writing: A mixed-methods study.](https://doi.org/10.1007/s11528-026-01199-w) *TechTrentds*
+Sun, Q. & **Yin, S.** (2026). [Exploring critical engagement in student-AI interaction for academic writing: A mixed-methods study.](https://doi.org/10.1007/s11528-026-01199-w) *TechTrends*
 [ESCI, Q1 in Education, JIF: 3.7, Official journal of the Association for Educational Communications & Technology]
 
 **Yin, S.** (2026). [Examining critical thinking in EAP speaking assessment: An argument-based validation study.](https://doi.org/10.1016/j.tsc.2026.102253) *Thinking Skills and Creativity*
@@ -103,7 +103,7 @@ Zhou, Z. & **Yin, S.** (upcoming). Navigating Pedagogical Contradictions: An Aut
 
 Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Life of Jay Gould, King of the Robber Barons. Shanghai: Shanghai University of Finance and Economics. ISBN: 978-7-5642-3580-2/F· 3580  
 
-C. Conference papers  
+C. Conference presentations  
 
 Sun, Q. & **Yin, S.** (2026, March). *Exploring Critical Engagement with GAl in Academic Writing: A Mixed-Methods Study.* The American Educational Research Association (AERC), Los Angeles, United States. Research paper presentation.
 

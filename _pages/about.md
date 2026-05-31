@@ -22,10 +22,10 @@ Employment
 **Lecturer**	2025 - current  
 Federation University Australia, Institute of Education, Arts, and Community 
 
-**Sessional Academic Tutor**	2025 - current  
+**Teaching Associate**	2025 - current  
 Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
 
-**Sessional Academic Tutor**	2023 - current  
+**Teaching Associate**	2023 - current  
 The University of Melbourne, School of Languages and Linguistics  
   
 **Research Assistant** (part-time)	2023 - 2025  

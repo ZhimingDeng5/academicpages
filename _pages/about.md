@@ -67,7 +67,9 @@ Research
   
 A. Peer-reviewed Journal Articles  
   
-**Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking.](https://doi.org/10.1016/j.jeap.2024.101426)   *Journal of English for Academic Purposes*, 1-14.  
+**Yin, S.** (2026). [ Examining critical thinking in EAP speaking assessment: an argument-based validation study.] (https://doi.org/10.1016/j.tsc.2026.102253) *Thinking Skills and Creativity*
+
+**Yin, S.**, Fan, J., Jin, Y., & Stapleton, P. (2024). [Towards a framework of critical thinking for assessing EAP speaking.](https://doi.org/10.1016/j.jeap.2024.101426)  *Journal of English for Academic Purposes*, 1-14.  
 [SSCI, Q1 in Linguistics and Education, JIF: 3.1]  
 
 **Yin, S.**, Guo, K., & Li, D. (2024). [To Assign a Topic or Not: Examining Critical Thinking in English as a Foreign Language Speaking.](https://doi.org/10.1177/00336882231222651) *RELC Journal*, 1-14.  

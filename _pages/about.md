@@ -25,6 +25,9 @@ Federation University Australia, Institute of Education, Arts, and Community
 **Teaching Associate**	2025 - current  
 Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
 
+**Teaching Associate**	2026 - current  
+La Trobe University, School of Education
+
 **Teaching Associate**	2023 - current  
 The University of Melbourne, School of Languages and Linguistics  
   
@@ -141,6 +144,9 @@ Federation University Australia, Institute of Education, Arts, and Community (Po
 
 Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education
 **Assessing teaching and learning (EDF2064)**, **Planning for teaching and learning (EDF2063)**
+
+La Trobe University, School of Education
+**Literacy and numeracy across the curriculum (EDU5023)**, **Integrated curriculum: General capabilities (EDU5024)**
   
 Previous: 
 

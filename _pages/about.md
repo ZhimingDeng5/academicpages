@@ -72,7 +72,10 @@ Research
 *Publications* 
   
 A. Peer-reviewed journal articles  
-  
+
+Sun, H., & **Yin, S.** (2026). [Beyond retrofitting: validating a purpose-built reading diagnostic assessment through a cognitive diagnostic approach.](https://doi.org/10.3389/fpsyg.2026.1894358)  *Frontiers in Psychology, 17*:1894358, 1-15.  
+[SSCI, Q1 in Psychology, JIF: 3.8] 
+
 Sun, Q. & **Yin, S.** (2026). [Exploring critical engagement in student-AI interaction for academic writing: A mixed-methods study.](https://doi.org/10.1007/s11528-026-01199-w) *TechTrends*
 [ESCI, Q1 in Education, JIF: 3.7, Official journal of the Association for Educational Communications & Technology]
 

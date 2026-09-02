@@ -73,6 +73,8 @@ Research
   
 A. Peer-reviewed journal articles  
 
+Tran, H., Zhou, D., **Yin, S.**, & Kong, X. (2026). [Situated lives and human-centred practices in TESOL: Teachers, learners and changing contexts.](https://doi.org/10.21153/tesol2026vol35no1art2439)  *TESOL in Context, 35* (1): 1-15.
+
 Sun, H., & **Yin, S.** (2026). [Beyond retrofitting: validating a purpose-built reading diagnostic assessment through a cognitive diagnostic approach.](https://doi.org/10.3389/fpsyg.2026.1894358)  *Frontiers in Psychology, 17*:1894358, 1-15.  
 [SSCI, Q1 in Psychology, JIF: 3.8] 
 

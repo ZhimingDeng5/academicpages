@@ -116,7 +116,15 @@ Yang, M. & **Yin, S.** (2020). Dark Genius of Wall Street: The Misunderstood Lif
 
 C. Conference presentations  
 
-Sun, Q. & **Yin, S.** (2026, March). *Exploring Critical Engagement with GAl in Academic Writing: A Mixed-Methods Study.* The American Educational Research Association (AERC), Los Angeles, United States. Research paper presentation.
+Zhou, D. & **Yin, S.** (2026, October). *Transnational Pre-Service Teachers’ Negotiation of AI Use under Constraints.* Australian Council of TESOL Associations (ACTA) Conference, Sydney, Australia. Research paper presentation.
+
+**Yin, S.** (2026, September). *Assessing Critical Thinking in EAP Speaking: The Development and Validation of a Rating Scale.* The 12th Asian Association for Language Assessment (AALA), Macau, China. Research paper presentation. 
+
+Zhou, D. & **Yin, S.** (2026, July). *Ethical by constraint: Contradictions in transnational pre-service teachers’ use of AI in Australian teacher education.* International Council on Education for Teaching (ICET) Conference, Melbourne, Australia. Research paper presentation.
+
+Zhou, D. & **Yin, S.** (2026, July). *Exploring Critical Engagement with GAl in Academic Writing: A Mixed-Methods Study.* Australian Teacher Education Association (ATEA) Conference, Gold Coast, Australia. Research paper presentation.
+
+Sun, Q. & **Yin, S.** (2026, March). *Ethical practice under constraint in transnational pre-service teachers’ negotiation of AI use.* The American Educational Research Association (AERC), Los Angeles, United States. Research paper presentation.
 
 **Yin, S.** (2025, June). *Expanding construct in EAP speaking assessment: Defining and operationalizing a critical thinking perspective.* The 46th Language Testing Research Colloquium (LTRC), Bankok, Thailand. Research paper presentation.  
 

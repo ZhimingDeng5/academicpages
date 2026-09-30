@@ -12,7 +12,7 @@ PhD, University of Melbourne/Shanghai Jiao Tong University
 About
 ======
 
-I hold dual PhD degrees in educational assessment from the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, literacy education, and critical thinking ability. I have been awarded the 2025 Asian Association for Language Assessment (AALA) Outstanding Dissertation Award. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024, and TOEFL Grant for Doctoral Research in Language Assessment in 2025.  
+I hold dual PhD degrees in educational assessment from the University of Melbourne and Shanghai Jiao Tong University. My research interests include language assessment, literacy education, and critical thinking ability. I am currently serving as an Associate Editor for the journal TESOL in Context. I have been awarded the 2025 Asian Association for Language Assessment (AALA) Outstanding Dissertation Award. I was the recipient of Duolingo Dissertation Research Award in Language Assessment in 2022, British Council Assessment Research Award in 2023, TOEFL/ILTA (International Language Testing Association) Travel Grant Award in 2024, and TOEFL Grant for Doctoral Research in Language Assessment in 2025.  
   
 You can reach me at [shengkai.yin@outlook.com](mailto:shengkai.yin@outlook.com) or DM me on [LinkedIn](https://www.linkedin.com/in/shengkai-yin/).
   

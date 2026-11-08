@@ -156,31 +156,31 @@ Teaching
 Current Teaching: 
 
 **Federation University Australia, Institute of Education, Arts, and Community**
-Phonetics, Phonology and Oral Communication, UG (EDBSP1023) and PG (EDMST6113) (course coordination)
-Academic Reading and Writing in Educational Research (EDMED7058) (course coordination)
-Applied Psycholinguistics, UG (EDBSP2014) and PG (EDMSP6014) (course coordination)
-Language Acquisition, UG (EDBSP1013) and PG (EDMST6010) (course coordination)
+Phonetics, Phonology and Oral Communication, UG (EDBSP1023) and PG (EDMST6113) (course coordination)  
+Academic Reading and Writing in Educational Research (EDMED7058) (course coordination)  
+Applied Psycholinguistics, UG (EDBSP2014) and PG (EDMSP6014) (course coordination)  
+Language Acquisition, UG (EDBSP1013) and PG (EDMST6010) (course coordination)  
 
 **Monash University, School of Curriculum, Teaching & Inclusive Education, Faculty of Education**
-Assessing teaching and learning (EDF2064)
-Planning for teaching and learning (EDF2063)
+Assessing teaching and learning (EDF2064)  
+Planning for teaching and learning (EDF2063)  
 
 **La Trobe University, School of Education**
-Literacy and numeracy across the curriculum (EDU5023)
-Integrated curriculum: General capabilities (EDU5024)
+Literacy and numeracy across the curriculum (EDU5023)  
+Integrated curriculum: General capabilities (EDU5024)  
   
 Past Teaching: 
 
 **The University of Melbourne, School of Languages and Linguistics** 
-Academic English 1 (ESLA10003)
-Advanced Self-Editing (ESLA90002)
-Language Assessment (LING 9009)
+Academic English 1 (ESLA10003)  
+Advanced Self-Editing (ESLA90002)  
+Language Assessment (LING 9009)  
 
 **Shanghai Polytechnic University, School of Foreign Languages and Cultural Communication** 
-General Academic English 
-Introduction to Linguistics and Applied Linguistics
-Second Language Acquisition 
-Language Curriculum, Assessment and Pedagogy 
+General Academic English     
+Introduction to Linguistics and Applied Linguistics  
+Second Language Acquisition   
+Language Curriculum, Assessment and Pedagogy   
 
 Supervision 
 ======

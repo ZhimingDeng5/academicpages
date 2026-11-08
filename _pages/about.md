@@ -184,8 +184,9 @@ Language Curriculum, Assessment and Pedagogy
 
 Supervision 
 ======
-Current: 2 Honours students in Speech Pathology  
-Projects: "Speech Pathologists’ Assessment Practices for Identifying Language Impairments in CALD Students in Victorian Primary Schools"; "Professional development needs for implementing classroom-based augmentative and alternative communication (AAC): perspectives from mainstream Victorian primary school educators and speech pathologists" 
+2 Honours students in Speech Pathology  
+Projects: "Speech Pathologists’ Assessment Practices for Identifying Language Impairments in CALD Students in Victorian Primary Schools"; 
+"Professional development needs for implementing classroom-based augmentative and alternative communication (AAC): perspectives from mainstream Victorian primary school educators and speech pathologists" 
 
 Service
 ======

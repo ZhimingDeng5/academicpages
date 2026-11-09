@@ -70,7 +70,7 @@ Research
 ======
 
 *Publications* 
-  
+Theme: Educational Measurement, Language Education, Critical Thinking, Teacher Education  
 A. Peer-reviewed journal articles  
 
 Sun, Q., Yao, E. Z., Ibrahim, J., Tran, F., **Yin, S.**, Liu, L., Su, H., & Wang, T. (2027). [Developing critical thinking process in AI-scaffolded writing: A mixed-methods study.](https://doi.org/10.1016/j.tsc.2026.102418) *Thinking Skills and Creativity*
